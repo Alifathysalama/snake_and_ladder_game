@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1653089481 source:c:\users\laptop\desktop\ta3del\main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<conio.h>
-	<windows.h>
-	<dos.h>
-
